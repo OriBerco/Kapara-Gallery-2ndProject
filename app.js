@@ -28,7 +28,7 @@ function displayPictures(pictureData) {
 
     pictureData.forEach(pic => {
         html +=
-            `<div class="card" style="margin: 10px; ">
+            `<div><div class="card" style="margin: 10px; ">
      <img class="card-img-top" src=${pic.getImage()} alt="Card image cap" style="max-height: 30vh">
      <div class="card-body">
     <h5 class="card-title">${pic.getName()}</h5>
