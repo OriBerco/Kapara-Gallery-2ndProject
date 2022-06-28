@@ -51,9 +51,9 @@ const pictures = [
     new Picture(
         'NOt THeir BAby',
         'Feelings Kevin',
-        50,
+        '-50',
         '2018/08/13/03/21/family-3602245__340.jpg',
-        `Horror picture. It's Horrible.`,
+        `Horror picture. It's so horrible we will give you money.`,
         false
     ),
     new Picture(
