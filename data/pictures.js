@@ -53,7 +53,7 @@ const pictures = [
         'Feelings Kevin',
         '-50',
         '2018/08/13/03/21/family-3602245__340.jpg',
-        `Horror picture. It's so horrible we'll give YOU money.`,
+        `Horror picture. It's so HORRIBLE we'll give YOU money.`,
         false
     ),
     new Picture(

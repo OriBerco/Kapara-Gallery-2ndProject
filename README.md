@@ -1,6 +1,6 @@
 # Kapara Gallery
 
-Gallery 
+Art Gallery 
 
 # Dev Environment
 * Chrome + Dev tool
